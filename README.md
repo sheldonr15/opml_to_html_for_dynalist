@@ -49,7 +49,7 @@ Added feature :
 </br>
 	
 #### How to include images
-- Include images in the opml as `![image_name / caption]("URL / absolute image file path")`.
+- Include images in the opml as `![image_name / caption](URL / absolute image file path)`.
 - In html version, the caption will be displayed.
 	- Hover over the caption to view image. It disappears when you hover away.
 	- Click on image after hover to keep it open.
